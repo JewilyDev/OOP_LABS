@@ -1,5 +1,4 @@
 ﻿using oop_labs.LAB_1;
-using oop_labs.LAB_2;
 
 namespace oop_labs;
 
